@@ -1,7 +1,7 @@
 node
 {
     def mavenHome=tool name:"maven-3.9.9"
-    echo "git branch name: ${env.BRANCH_NAME}"
+    echo "git branch name: ${env.BRANCH_NAME}"   // this is environment variable declaration
     echo "build number is: ${env.BUILD_NUMBER}"
     echo "node name is: ${env.NODE_NAME}"
     stage('stage 1')
