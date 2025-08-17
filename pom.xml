@@ -92,8 +92,8 @@
 		</dependency>
 		
 	</dependencies>
-	
-<!-- 	<distributionManagement>
+
+ 	<distributionManagement>
 	
 	    <repository>
 	      <id>nexus</id>
@@ -107,8 +107,7 @@
 	      <url>http://43.205.255.212:8081/repository/Snapshot-repo/</url>
 	    </snapshotRepository>
 	    
-	</distributionManagement>
-	 -->
+	</distributionManagement> 
 	<build>
 		<finalName>maven-web-application</finalName>
 		
