@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to KK DEVOPS please keep in our life is designed by our mind</h1>
+<h1 align="center">Welcome to KK DEVOPS  please keep in our life is designed by our mind</h1>
 <h1 align="center"> KK FUNDA</h1>
 <hr>
 <br>
